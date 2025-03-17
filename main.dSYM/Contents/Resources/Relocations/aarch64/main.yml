@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/apple/Desktop/Dynamic pricing /main'
+relocations:     []
+...
